@@ -1,7 +1,7 @@
 #include <gecode/driver.hh>                                                      
 #include <gecode/int.hh>                                      
 #include <gecode/minimodel.hh>                                        
-#include <gecode/LReSBDS/LSBDSBrancher.hpp>                                                                    
+#include <gecode/LReSBDS/LReSBDSBrancher.hpp>                                                                    
 #include <gecode/LReSBDS/SBDSBrancher.hpp>                                                                    
                                
 using namespace Gecode;          
