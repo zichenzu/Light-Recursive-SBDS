@@ -9,10 +9,10 @@ Put LReSBDS folder into gecode folder and queens_lresbds.cpp file into example f
 
 To run the N-Queens problem (e.g. N=10) using one of the symmetry breaking methods SBDS/ParSBDS/LReSBDS/LDSB:
 
-./queens_resbds -search sbds 10
+./queens_lresbds -search sbds 10
 
-./queens_resbds -search parsbds 10
+./queens_lresbds -search parsbds 10
 
-./queens_resbds -search lresbds 10
+./queens_lresbds -search lresbds 10
 
-./queens_resbds -search ldsb 10
+./queens_lresbds -search ldsb 10
